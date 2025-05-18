@@ -4,14 +4,14 @@ class Note < Formula
   desc "Simple CLI note-taking tool"
   homepage "https://github.com/emfleak/note"
   url "https://github.com/emfleak/note/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "..."  # keep existing value
+  sha256 "6e85a853af67e2354fbbb2de1dc68c001be0424d65993982aa09cc6c8251638f"
   license "MIT"
 
   depends_on "python@3.12"
 
   resource "colorama" do
-    url "https://files.pythonhosted.org/packages/58/68/3c0e8785f2e1d3ad2b1be91e2894d02fc445c2048a28905cb092a6bb6b63/colorama-0.4.6.tar.gz"
-    sha256 "e96e3e6f5fc55b766bee7fba6c381f4999d0fc2f357788d452c6c5a5192f3c88"
+    url "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz"
+    sha256 "08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44"
   end
 
   def install
