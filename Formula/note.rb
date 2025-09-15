@@ -3,8 +3,8 @@ class Note < Formula
 
   desc "Comprehensive CLI note-taking tool"
   homepage "https://github.com/emfleak/note"
-  url "https://github.com/emfleak/note/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "b2e2ef0fa69750e05f992631d40ebadf7da7da7af7237b501b55223e5e0a450b"
+  url "https://github.com/emfleak/note/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "f5746ec08b8892d30fc589deb6d3aa090296e0b82ac0e5b8a163d0331cb94dc6"
   license "MIT"
 
   depends_on "python@3.12"
